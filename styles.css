@@ -1,0 +1,35 @@
+body {
+    /* font-family: Arial, sans-serif; */
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    background-color: blue;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+    margin: 20px 0;
+}
+/* .container{
+    display: flex;
+     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
+#weatherDetails {
+    margin-top: 20px;
+}
+#welcome{
+display: none;
+}
+
+#h1{
+color: white;
+
+}
+#weatherDetails{
+    display: flex;
+    color: white;
+    width: 1000px;
+}
